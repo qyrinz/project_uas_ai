@@ -1,6 +1,6 @@
 # project_uas_ai
 Tugas Akhir Mata Kuliah Artificial Intelligence
-Prediksi Suhu
+- Prediksi Suhu
 
 # Kelompok
 - Fery Eka Mahendra     171111117
