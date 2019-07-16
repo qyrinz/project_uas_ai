@@ -7,5 +7,4 @@ Tugas Akhir Mata Kuliah Artificial intelligence
 - Hafidz Agung Mabrury  171111102
 
 # Description
-1. https://www.databriefing.com/coding/predict-sales-1/
-2. https://towardsdatascience.com/predicting-sales-611cb5a252de
+
